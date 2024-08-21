@@ -126,7 +126,8 @@ body.light-theme textarea {
     border-color: #b3b3b3;
 }
 
-body.light-theme #formatButton, body.light-theme #copyButton {
+body.light-theme #formatButton,
+body.light-theme #copyButton {
     font-family: Consolas, monaco, monospace;
     font-size: 15px;
     padding: 10px;
